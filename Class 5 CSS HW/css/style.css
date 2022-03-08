@@ -1,0 +1,35 @@
+h1 {
+    color: red;
+    background-color: black;
+}
+#last_heading{
+    color: green;
+}
+.test{
+    color: green;
+}
+.bg{
+    background-color: yellow;
+}
+div{
+    background-color: red;
+    width: 500px;
+    margin: 10px;
+    /*padding: 10px;
+    padding-top: 20pxs;
+    padding-right: 30px;
+    padding-bottom: 40px;
+    padding-left: 10px; */
+    padding:10px 20px 30px 40px;
+    margin: 10px 20px 30px 40px;
+    /*border-top-width: 10px;
+    border-top-style: solid;
+    border-top-color: green;*/
+    border: 10px groove green;
+    font-size: 20px;
+    font-family: sans-serif;
+    text-transform: capitalize;
+    line-height: 1.5;
+    letter-spacing: 2px;
+    text-decoration: underline;
+}
